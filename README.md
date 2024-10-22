@@ -1,5 +1,5 @@
 # Aapki Baat - Chat Application 
-"Aapki Baat" is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+"Aapki Baat" is chat application build with the power of MERN Stack
 
 ## Installation Guide
 
@@ -51,3 +51,4 @@ Done! Now open localhost:3000 in your browser.
 
 
 Learned from [Kishan Sheth](https://www.youtube.com/@KishanSheth21)
+You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
